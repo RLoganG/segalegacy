@@ -1,0 +1,54 @@
+body {
+    font-family: 'Arsenal', sans-serif;
+    background-color:lightsteelblue;
+    font-size: 19px;}
+
+.one {
+    color: whitesmoke;
+    width: 32%;
+    margin-top: 11px;
+    }
+
+.two {
+    color: whitesmoke;
+    width: 32%;
+    float: right;
+    margin-top: 11px
+}
+
+.pat {
+    border: 50 50 50 50;
+    margin-left: 1310px;
+    background-color: darkgoldenrod;}
+
+nav {
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+article {
+    background-color: darkslategray;
+    color: whitesmoke;
+}
+p {
+color: whitesmoke;
+margin-top: -1px;
+margin-bottom: 20px;
+width: 20;
+}
+
+section {
+    width: 20;
+    background-color: steelblue
+}
+
+footer {
+font-size: 15px;
+background-color: steelblue;
+color: whitesmoke;
+}
+
+img {
+    width: 497px;
+    height: 10%
+}
